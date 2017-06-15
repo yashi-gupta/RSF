@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/Bottombaritemone"
+        android:icon="@drawable/info"
+        android:title="About Us"
+
+    />
+    <item android:id="@+id/Bottombaritemtwo"
+        android:icon="@drawable/info"
+        android:title="Projects"
+        />
+    <item android:id="@+id/Bottombaritemthree"
+        android:icon="@drawable/info"
+        android:title="Pledge"
+        />
+    <item android:id="@+id/Bottombaritemfour"
+        android:icon="@drawable/info"
+        android:title="Our Team"
+        />
+    <item android:id="@+id/Bottombaritemfive"
+        android:icon="@drawable/info"
+        android:title="Contac tUs"
+        />
+    <item android:id="@+id/Bottombaritemsix"
+        android:icon="@drawable/info"
+        android:title="More"
+        />
+
+
+</menu>
